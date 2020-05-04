@@ -10,6 +10,7 @@ Data address：
     其中：Amazon_Unlocked_Mobile.csv为Amazon无锁手机评论原始数据；review.csv为三种情感各抽取25000条，-1为消极，0为中立，1为积极；stopwords.txt为英文停用词
 
 utils
+
     --config.py 存放文件路径
     --params_utils.py 存放参数取值
     --data_process.py 清洗数据；训练word2vec模型
