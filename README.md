@@ -5,9 +5,9 @@ Text classification using machine learning model（KNN，Logistic，Decision tre
 
 Data address：
     链接：https://pan.baidu.com/s/1J7wzv5nZscU0n6ZKOKFmsw 
-    提取码：2bhk
-    
-    其中：Amazon_Unlocked_Mobile.csv为Amazon无锁手机评论原始数据；review.csv为三种情感各抽取25000条，-1为消极，0为中立，1为积极；stopwords.txt为英文停用词
+    提取码：2bhk    
+其中：Amazon_Unlocked_Mobile.csv为Amazon无锁手机评论原始数据；review.csv为三种情感各抽取25000条，-1为消极，0为中立，1为积极；stopwords.txt为英文停用词
+
 
 utils
 
