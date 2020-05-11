@@ -1,7 +1,7 @@
 # Text-emotion-classification
 Text classification using machine learning model（KNN，Logistic，Decision tree，SVM）and deeping model（TextCNN，BiLSTM，Fasttext，RCNN，Transformer，ATT_BiLSTM，ATT_CNN_BiLSTM）
 
-对Amazon无锁手机评论进行三元情感分类，机器学习模型是将训练的word2vec词向量均值作为输入，深度学习模型使用Embedding层进行向量化。
+对Amazon无锁手机评论进行三元情感分类，机器学习模型是将训练的word2vec词向量均值作为输入，深度学习模型使用Embedding层进行向量化。python3.7.6+tensorflow1.13.1
 
 Data address：
     链接：https://pan.baidu.com/s/1J7wzv5nZscU0n6ZKOKFmsw 
